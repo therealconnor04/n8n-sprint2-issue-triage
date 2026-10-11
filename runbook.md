@@ -199,3 +199,6 @@ This prototype does not test:
 The prototype is limited to a public course repository, local n8n execution, deterministic title classification, persistent n8n Data Tables, duplicate protection, and controlled failure handling.
 
 The workflow is intended only as a course prototype and not as a production deployment.
+
+Shut Down:
+Final shutdown completed after evidence capture. GitHub CLI forwarding was stopped, the repository webhook was removed, and the n8n workflow was deactivated.
